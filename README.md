@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food Ordering Web App (MERN Stack)
 
 ## Table of Contents
@@ -141,3 +142,7 @@ Feel free to customize this template according to your specific project details 
 
 
 
+=======
+# Pizza-Delivery
+this is mern stack pizza delivery project done for oasis infobyte
+>>>>>>> 57f7b3bb8daf4ed06a7820e74d2fad55982572c2
